@@ -1,2 +1,2 @@
 def square(x):
-  print(x*x)
+  print(x**x)
